@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Machine Learning, Python, NumPy, Pandas, Scikit-Learn, Tensorflow, PyTorch, Docker, Kubernetes, AWS, CI/CD, MLOps, Design Patterns**
 
-- 📫 How to reach me [gfluz94@gmail.com](gfluz94@gmail.com)
+- 📫 Feel free to reach out to me at [gfluz94@gmail.com](gfluz94@gmail.com)
 
 - 😄 Pronouns: He/Him/His
 
