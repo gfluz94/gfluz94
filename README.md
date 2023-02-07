@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Fernandes Luz</h1>
 <h3 align="center">Data Scientist and Machine Learning Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="gfluz94" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [github.com/gfluz94](github.com/gfluz94)
 
 - 💬 Ask me about **Machine Learning, Python, NumPy, Pandas, Scikit-Learn, Tensorflow, PyTorch, Docker, Kubernetes, AWS, CI/CD, MLOps, Design Patterns**
