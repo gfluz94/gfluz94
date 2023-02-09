@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gabriel Fernandes Luz</h1>
 <h3 align="center">Data Scientist and Machine Learning Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [github.com/gfluz94](github.com/gfluz94)
+- 👨‍💻 All of my projects are available at [github.com/gfluz94](https://github.com/gfluz94?tab=repositories)
 
 - 💬 Ask me about **Machine Learning, Python, NumPy, Pandas, Scikit-Learn, Tensorflow, PyTorch, Docker, Kubernetes, AWS, CI/CD, MLOps, Design Patterns**
 
-- 📫 Feel free to reach out to me at [gfluz94@gmail.com](gfluz94@gmail.com)
+- 📫 Feel free to reach out to me at [gfluz94@gmail.com](mailto:gfluz94@gmail.com)
 
 - 😄 Pronouns: He/Him/His
 
